@@ -300,6 +300,8 @@ if (typeof demFeels.extendEmotes === 'function') {
 	'#UWR' : 'http://image.noelshack.com/fichiers/2018/44/3/1541019720-rose-quartz-by-sbrixynya-dawafu3.gif',
 	':wailord:' : 'http://image.noelshack.com/fichiers/2018/44/3/1541019805-tinyfloatingwhale.gif',
 	':onion:' : 'http://image.noelshack.com/fichiers/2018/44/3/1541019812-d91.gif',
+	':yao:' : 'https://imgix.ranker.com/user_node_img/50007/1000136055/original/yao-ming-rage-face-photo-u2?w=650&q=50&fm=jpg&fit=crop&crop=faces',
+	':srx:' : 'http://ekladata.com/74hvyiDnkkGRMIUEAo7MnbhmOLc@200x200.jpg',
 	});
 }
 
